@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.AssemblyInfo.cs
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Design Patterns\SingleTon\bin\Debug\net7.0\SingleTon.exe
+C:\Users\pc\Desktop\Design Patterns\SingleTon\bin\Debug\net7.0\SingleTon.deps.json
+C:\Users\pc\Desktop\Design Patterns\SingleTon\bin\Debug\net7.0\SingleTon.runtimeconfig.json
+C:\Users\pc\Desktop\Design Patterns\SingleTon\bin\Debug\net7.0\SingleTon.dll
+C:\Users\pc\Desktop\Design Patterns\SingleTon\bin\Debug\net7.0\SingleTon.pdb
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.dll
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\refint\SingleTon.dll
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.pdb
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\SingleTon.genruntimeconfig.cache
+C:\Users\pc\Desktop\Design Patterns\SingleTon\obj\Debug\net7.0\ref\SingleTon.dll
