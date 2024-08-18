@@ -1,0 +1,20 @@
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy Patterns\obj\Debug\net7.0\Proxy Patterns.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy Patterns\obj\Debug\net7.0\Proxy Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy Patterns\obj\Debug\net7.0\Proxy Patterns.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy Patterns\obj\Debug\net7.0\Proxy Patterns.AssemblyInfo.cs
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy Patterns\obj\Debug\net7.0\Proxy Patterns.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.AssemblyInfo.cs
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\bin\Debug\net7.0\Proxy Patterns.exe
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\bin\Debug\net7.0\Proxy Patterns.deps.json
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\bin\Debug\net7.0\Proxy Patterns.runtimeconfig.json
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\bin\Debug\net7.0\Proxy Patterns.dll
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\bin\Debug\net7.0\Proxy Patterns.pdb
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.dll
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\refint\Proxy Patterns.dll
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.pdb
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\Proxy Patterns.genruntimeconfig.cache
+C:\Users\pc\Desktop\Design Patterns\Structural Design Patterns\Proxy_Patterns\obj\Debug\net7.0\ref\Proxy Patterns.dll
